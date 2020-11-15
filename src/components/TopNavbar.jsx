@@ -9,7 +9,7 @@ const TopNavbar = () => {
         id="mainNav"
       >
         <div className="container">
-          <a className="navbar-brand js-scroll-trigger" href=".Masthead">
+          <a className="navbar-brand js-scroll-trigger" href="#masthead">
             On The Limb
           </a>
 
