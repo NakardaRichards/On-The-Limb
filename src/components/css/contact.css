@@ -1,0 +1,25 @@
+.Contactcontainer {
+  padding: 100px 0;
+  background-color: #212529;
+  background-image: url(C:\Users\Nakarda\Documents\singlepage\src\assets\img\cont.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  line-height: 50px;
+  -webkit-text-size-adjust: 100%;
+}
+.Contactcontainer h2 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.Contactcontainer h3 {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-align: center;
+}

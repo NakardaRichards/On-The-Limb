@@ -1,0 +1,31 @@
+.Trainner {
+  text-align: center;
+}
+.Trainner img {
+  width: 225px;
+  height: 225px;
+  border: 7px solid rgba(0, 0, 0, 0.1);
+}
+
+.TrainnersContainer {
+  padding: 100px 0;
+  
+}
+
+.TrainnersContainer h2 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.TrainnersContainer h3 {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-align: center;
+
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}

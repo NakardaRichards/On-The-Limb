@@ -1,8 +1,9 @@
 import React from "react";
 import "../App.css";
+import "./css/trainners.css";
 const Trainners = () => {
   return (
-    <section className="pageSection" id="trainners">
+    <section  id="trainners">
       <div className="TrainnersContainer">
         <h2>The Best Trainners in the World</h2>
         <p>
@@ -50,15 +51,8 @@ const Trainners = () => {
           </div>
         </div>
       </div>
-      <div className="row">
-        <div className="col-lg-8 mx-auto text-center">
-          <p className="large text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-            laboriosam veritatis, quos non quis ad perspiciatis, totam corporis
-            ea, alias ut unde.
-          </p>
-        </div>
-      </div>
+     
+     
     </section>
   );
 };

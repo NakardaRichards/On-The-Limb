@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./css/topnav.css";
 import "../App.css";
 const TopNavbar = () => {
   return (
@@ -33,6 +33,15 @@ const TopNavbar = () => {
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#trainners">
                   Trainners
+                </a>
+              </li>
+
+              <li className="nav-item">
+                <a
+                  className="nav-link js-scroll-trigger"
+                  href="#recommendations"
+                >
+                  Recommendations
                 </a>
               </li>
               <li className="nav-item">

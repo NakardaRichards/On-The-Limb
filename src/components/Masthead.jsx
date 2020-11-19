@@ -1,5 +1,7 @@
 import React from "react";
 import "../App.css";
+import "./css/masthead.css";
+
 const Masthead = () => {
   return (
     <section>
@@ -19,9 +21,7 @@ const Masthead = () => {
               </a>
             </div>
           </div>
-        
-      
-      </header>
+        </header>
       </div>
     </section>
   );
