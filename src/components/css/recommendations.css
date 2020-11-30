@@ -1,7 +1,6 @@
 .rContainer {
   padding: 100px 0;
-  line-height: 60px;
-  -webkit-text-size-adjust: 100%;
+
 }
 
 .rContainer h2 {
@@ -16,4 +15,17 @@
   font-style: italic;
   margin-bottom: 75px;
   text-align: center;
+}
+.Recommendedtext{
+  padding: 50px 0;
+  line-height: 60px;
+  margin-left: 10px;
+}
+
+div {
+  display: block;
+}
+
+.imgContainer3 {
+  float: right;
 }

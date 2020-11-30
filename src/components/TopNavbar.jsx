@@ -22,7 +22,7 @@ const TopNavbar = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#workouts">
-                  Workouts
+                  Exercises
                 </a>
               </li>
               <li className="nav-item">
@@ -31,8 +31,8 @@ const TopNavbar = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link js-scroll-trigger" href="#trainners">
-                  Trainners
+                <a className="nav-link js-scroll-trigger" href="#trainers">
+                  Trainers
                 </a>
               </li>
 

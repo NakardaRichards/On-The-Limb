@@ -1,0 +1,49 @@
+.Trainer {
+  text-align: center;
+}
+.Trainer img {
+  width: 225px;
+  height: 225px;
+  border: 7px solid rgba(0, 0, 0, 0.1);
+}
+
+.TrainersContainer {
+  padding: 100px 0;
+}
+
+.TrainersContainer h2 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.TrainersContainer h3 {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+.imgContainer {
+  float: left;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+.Trainertext {
+  line-height: 60px;
+  padding: 50px 0;
+}
+
+.Trainerslayout {
+  margin-left: 100px;
+  
+  padding: 100px 0;
+}

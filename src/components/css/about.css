@@ -6,8 +6,8 @@
 
 .AboutContainer h2 {
   font-size: 40px;
+  padding: 50px 0;
 
-  margin-bottom: 75px;
   text-align: center;
 
   margin-top: 100%;
@@ -28,9 +28,11 @@ div {
   display: block;
 }
 
-.imgContainer {
+.imgContainer2 {
   float: right;
 }
 .aboutText {
   margin-right: 20px;
+  text-align: left;
+  padding: 100px 0;
 }

@@ -4,7 +4,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Masthead from "./components/Masthead";
 import Services from "./components/Services";
-import Trainners from "./components/Trainners";
+import Trainers from "./components/Trainers";
 import Workouts from "./components/Workouts";
 import Footer from "./components/Footer";
 import Recommendations from "./components/Recommendations";
@@ -18,7 +18,7 @@ function App() {
       <Services />
       <Workouts />
       <About />
-      <Trainners />
+      <Trainers />
       <Recommendations />
       <Contact />
       <Footer />
