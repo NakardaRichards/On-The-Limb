@@ -9,7 +9,7 @@ const Workouts = () => {
           <h2 style={{ textAlign: "center" }}>Our Exercises</h2>
         </div>
         <div className="imgContainer">
-          <img src="https://image.freepik.com/free-vector/man-weight-lifting-with-sports-icons_24877-51357.jpg" />
+          <img src="https://image.freepik.com/free-vector/fitness-cardio-exercise-equipment-men-women-two-tints-flat-icons-collections_1284-10469.jpg" />
         </div>
         <div className="Workouttext">
           <p>

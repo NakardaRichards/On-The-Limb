@@ -11,7 +11,7 @@ const Masthead = () => {
             <div className="intro-text">
               <div className="intro-lead-in">Welcome To On The Limb</div>
 
-              <p style={{ fontSize: "25px", fontFamily: "fantasy" }}>
+              <p style={{ fontSize: "45px", fontFamily: "san-serif" }}>
                 The best place to learn fitness
               </p>
 
