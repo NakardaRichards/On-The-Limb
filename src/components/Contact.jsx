@@ -8,11 +8,13 @@ const Contact = () => {
       <div className="Contactcontainer">
         <h2>Contact Us</h2>
 
-        <h3>Telephone: </h3>
-        <p style={{ textAlign: "center" }}>xxx-xxx-xxx</p>
+        <h3 style={{ fontSize: "40px" }}>Telephone: </h3>
+        <p style={{ textAlign: "center", fontSize: "40px" }}>1-876-the-limb</p>
 
-        <h3>Email:</h3>
-        <p style={{ textAlign: "center" }}>xxx-xxxx-xxx</p>
+        <h3 style={{ fontSize: "40px" }}>Email:</h3>
+        <p style={{ textAlign: "center", fontSize: "40px" }}>
+          onthelimb101@gmail.com
+        </p>
       </div>
     </section>
   );

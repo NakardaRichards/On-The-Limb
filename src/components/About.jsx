@@ -11,17 +11,18 @@ const About = () => {
         </div>
         <div className="aboutText">
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet autem
-            quibusdam voluptatem neque rem? Voluptatibus tempora ratione sequi,
-            hic debitis ducimus itaque reprehenderit minus architecto
-            consectetur incidunt, provident nobis excepturi sapiente nesciunt
-            deserunt. Magnam blanditiis eveniet, similique optio accusantium
-            accusamus at cupiditate dicta ea nostrum iure, reiciendis quasi,
-            perferendis explicabo. Necessitatibus perferendis soluta minus
-            quidem. Accusantium aut illo iure atque, quaerat ut ipsa suscipit.
-            Fugiat optio pariatur dignissimos iure quo iusto odio repudiandae
-            voluptatem! Eos tempora vel ut, praesentium, doloremque aperiam
-            ipsum vitae saepe, quos perspiciatis eaque! Exercitationem, ratione!
+            On The Limb is an online / physical gym that focuses on giving each
+            member an one on one experience safe from the comfort of their
+            homes. We provide the best and most effective exercise that helps
+            with improving your core, lowering body fat percentage and also
+            improving your body posture. If you are here to become a bodybuilder
+            this isn't the place for you. You can always check Fusion Fitness
+            out. Our gym mainly targets students they are always stressed out
+            because of the heaps of assignments they get. Exercising has been
+            scientifically proven to reduce stress and improve mentally
+            processes and that's why we are here for you. If your not a fan of
+            the online gym experience you can always come to one of our 25
+            facilities across Jamaica.
           </p>
         </div>
       </div>
