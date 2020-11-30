@@ -5,15 +5,100 @@ const Workouts = () => {
   return (
     <section id="workouts">
       <div className="WorkoutsContainer">
-        <h2>Workouts</h2>
+        <div>
+          <h2 style={{ textAlign: "center" }}>Our Exercises</h2>
+        </div>
+        <div className="imgContainer">
+          <img src="https://image.freepik.com/free-vector/man-weight-lifting-with-sports-icons_24877-51357.jpg" />
+        </div>
+        <div className="Workouttext">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
+            aspernatur non eum deserunt facere, vitae labore dolorum reiciendis
+            molestias quibusdam dicta eius ab quisquam nostrum repudiandae
+            obcaecati dolore neque? Sapiente dolore voluptas tempora natus.
+            Dolorem libero molestias ipsam illo sit quam ducimus minus ullam
+            quae? Ipsum eveniet ipsam omnis ipsa?
+          </p>
+        </div>
 
-        <p>Lorem ipsum dolor sit amet consectetur.</p>
+        <div className="workoutslayout">
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl1</p>
+          </div>
 
-        <img
-          style={{ width: "100%" }}
-          src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
-          alt="fitnessgirl"
-        />
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl2</p>
+          </div>
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl3</p>
+          </div>
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl1</p>
+          </div>
+
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl2</p>
+          </div>
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl3</p>
+          </div>
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl1</p>
+          </div>
+
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl2</p>
+          </div>
+          <div>
+            <img
+              style={{ width: "100%" }}
+              src="https://c4.wallpaperflare.com/wallpaper/630/144/936/girl-model-blonde-sports-wallpaper-preview.jpg"
+              alt="fitnessgirl"
+            />
+            <p>Girl3</p>
+          </div>
+        </div>
       </div>
     </section>
   );

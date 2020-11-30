@@ -8,11 +8,38 @@
   margin-bottom: 15px;
   text-align: center;
 }
-.WorkoutsContainer h3{
+.WorkoutsContainer h3 {
   font-size: 16px;
   font-weight: 400;
   font-style: italic;
   margin-bottom: 75px;
   text-align: center;
+}
 
+.workoutslayout {
+  margin: 100px 0;
+  display: grid;
+  grid-template-columns: 20% 20% 20%;
+  gap: 10rem;
+  font-size: 40px;
+
+  margin-left: 100px;
+  float: left;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.Workouttext {
+  padding: 100px 0;
+}
+
+div {
+  display: block;
+}
+
+.imgContainer {
+  float: left;
 }

@@ -11,7 +11,9 @@ const Masthead = () => {
             <div className="intro-text">
               <div className="intro-lead-in">Welcome To On The Limb</div>
 
-              <p>The best place to learn fitness</p>
+              <p style={{ fontSize: "25px", fontFamily: "fantasy" }}>
+                The best place to learn fitness
+              </p>
 
               <a
                 className="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
