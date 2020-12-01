@@ -1,12 +1,6 @@
 .Contactcontainer {
   padding: 100px 0;
-  background-color: #212529;
-  background-image: url(https://image.freepik.com/free-photo/contact-us-business-icon-computer-keyboard-with-globe_117856-2468.jpg);
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
-  color: white;
+ 
   line-height: 50px;
   -webkit-text-size-adjust: 100%;
 }

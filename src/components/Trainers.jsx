@@ -12,19 +12,17 @@ const Trainers = () => {
 
         <div className="Trainertext">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
-            aspernatur non eum deserunt facere, vitae labore dolorum reiciendis
-            molestias quibusdam dicta eius ab quisquam nostrum repudiandae
-            obcaecati dolore neque? Sapiente dolore voluptas tempora natus.
-            Dolorem libero molestias ipsam illo sit quam ducimus minus ullam
-            quae? Ipsum eveniet ipsam omnis ipsa?
+            We have the best trainers in the world because we make hard workouts
+            easy for our members and still maintain it's effectiveness. Our
+            trainers can make you lose weight within days by completely changing
+            your eating style and eliminating bad eating habits.
           </p>
         </div>
       </div>
 
       <div className="Trainerslayout">
         <div className="row">
-          <div className="col-sm-4">
+          <div className="col-sm-5">
             <div className="Trainer">
               <img
                 className="mx-auto rounded-circle"
@@ -35,7 +33,7 @@ const Trainers = () => {
               <p className="text-muted">Co-Head Trainer</p>
             </div>
           </div>
-          <div className="col-sm-4">
+          <div className="col-sm-5">
             <div className="Trainer">
               <img
                 className="mx-auto square-circle"
