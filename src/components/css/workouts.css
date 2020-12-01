@@ -17,14 +17,20 @@
 }
 
 .workoutslayout {
-  margin: 100px 0;
+  margin: 29px 0;
   display: grid;
   grid-template-columns: 20% 20% 20%;
-  gap: 10rem;
+  gap: 12rem;
   font-size: 40px;
 
-  margin-left: 100px;
   float: left;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    360deg,
+    rgba(255, 255, 255, 1) 53%,
+    rgba(132, 169, 208, 1) 79%,
+    rgba(31, 109, 180, 1) 100%
+  );
 }
 
 img {
@@ -51,11 +57,19 @@ div {
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  width:300px;
+  width: 300px;
 }
 
 .zoom:hover {
-  transform: scale(2);
+  transform: scale(1.2);
 }
 
-.zoom-in {cursor: zoom-in;}
+#workouts {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 53%,
+    rgba(132, 169, 208, 1) 79%,
+    rgba(31, 109, 180, 1) 100%
+  );
+}

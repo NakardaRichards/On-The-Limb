@@ -28,3 +28,11 @@
   margin-left: 10px;
   margin-right: 10px;
 }
+#services {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 37%,
+    rgba(253, 187, 45, 1) 55%
+  );
+}

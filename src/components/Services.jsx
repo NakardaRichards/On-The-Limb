@@ -21,7 +21,7 @@ const Services = () => {
         <div className="row text-center">
           <div className="col-md-4">
             <h4 className>Free Medical Monitoring</h4>
-            <p className="text-muted">
+            <p>
               Nurses work in our gym and play a key role in monitoring your
               health. Every month, for free, they monitor your heart and
               circulatory system, weigh you, and chart your body fat percentage.
@@ -32,7 +32,7 @@ const Services = () => {
           </div>
           <div className="col-md-4">
             <h4>Free InBody Screenings</h4>
-            <p className="text-muted">
+            <p>
               In less than 60 seconds, the InBody Screening not only examines
               the composition of your body, but also reveals percentage of body
               fat, muscle distribution, and body water balance which are
@@ -44,7 +44,7 @@ const Services = () => {
           </div>
           <div className="col-md-4">
             <h4>Free Nutritional Counseling</h4>
-            <p className="text-muted">
+            <p>
               Our nutritionists help you with your nutritional program. Proper
               nutrition is an essential complement to exercise for high energy,
               and lasting health.
