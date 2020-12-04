@@ -58,3 +58,36 @@ header.masthead .intro-text .intro-heading {
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 }
+
+.butn1 {
+  width: 320px;
+  max-width: 100%;
+  margin: 0 auto;
+  margin-bottom: 0;
+  overflow: hidden;
+  position: relative;
+  border: none;
+
+  font-size: 24px;
+  font-weight: normal;
+  box-shadow: 0 9px 18px rgb(0, 132, 255);
+
+  border-radius: 40px;
+  padding: 18px;
+  color: white;
+
+  transition: all 0.2s ease-out 0s;
+  background: radial-gradient(
+    90px circle at top center,
+    rgba(18, 194, 165, 0.267) 30%,
+    rgb(2, 255, 242)
+  );
+  transition: all 0s ease-out 0s;
+
+  animation: 18s linear 0s infinite move;
+}
+
+.butn1:hover {
+  background-color: black;
+  box-shadow: 0 9px 18px rgb(238, 255, 4);
+}

@@ -14,12 +14,8 @@ const Masthead = () => {
               <p style={{ fontSize: "45px", fontFamily: "san-serif" }}>
                 The best place to learn fitness
               </p>
-
-              <a
-                className="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-                href="#workouts"
-              >
-                Get Started
+              <a href="#workouts">
+                <button className="butn1">Get Started</button>
               </a>
             </div>
           </div>

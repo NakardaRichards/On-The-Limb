@@ -19,6 +19,7 @@ const Contact = () => {
           onthelimb101@gmail.com
         </p>
       </div>
+      
     </section>
   );
 };
