@@ -8,6 +8,7 @@ const Recommendations = () => {
         <div>
           <h2 style={{ textAlign: "center" }}>Recommended Activities</h2>
         </div>
+        
         <div className="imgContainer3">
           <img src="https://image.freepik.com/free-vector/man-moving-clock-arrows-managing-time_74855-10894.jpg" />
         </div>

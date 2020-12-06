@@ -17,6 +17,10 @@ const Masthead = () => {
               <a href="#workouts">
                 <button className="butn1">Get Started</button>
               </a>
+
+              <a href="#footerCont">
+                <button className="botButn">&darr;</button>
+              </a>
             </div>
           </div>
         </header>

@@ -66,8 +66,11 @@ const Workouts = () => {
             />
             <p>Leg Curls</p>
           </div>
+          
         </div>
+        
       </div>
+     
     </section>
   );
 };
