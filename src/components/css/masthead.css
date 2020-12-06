@@ -3,10 +3,10 @@ header.masthead {
   color: #fff;
   background-image: url(https://images.unsplash.com/photo-1517963628607-235ccdd5476c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1051&q=80);
   background-repeat: no-repeat;
-  background-attachment: scroll;
+
   line-height: 60px;
-  -webkit-text-size-adjust: 100%;
-  background-position: center center;
+
+  background-position: center;
 
   background-size: cover;
 }
@@ -34,7 +34,7 @@ header.masthead .intro-text .intro-heading {
     "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol", "Noto Color Emoji";
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
@@ -91,9 +91,12 @@ header.masthead .intro-text .intro-heading {
   box-shadow: 0 9px 18px rgb(238, 255, 4);
   background-color: gold;
 }
+
+
 .botButn {
   left: 92%;
   position: fixed;
+
   margin: 0 auto;
   margin-bottom: 0;
   border-radius: 50px;
@@ -109,5 +112,5 @@ header.masthead .intro-text .intro-heading {
 
 .botButn:hover {
   background-color: gold;
-   box-shadow: 0 9px 18px rgb(238, 255, 4);
+  box-shadow: 0 9px 18px rgb(238, 255, 4);
 }
