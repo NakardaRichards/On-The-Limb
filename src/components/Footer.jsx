@@ -12,7 +12,7 @@ class Footer extends React.Component {
               <Row className=" row-grid align-items-center mb-5">
                 <Col lg="6">
                   <h3 className=" text-primary font-weight-light mb-2">
-                    Thank for stopping by !
+                    Thanks for stopping by !
                   </h3>
                   <h4 className=" mb-0 font-weight-light">
                     We hope you learned a lot about fitness.
@@ -24,7 +24,6 @@ class Footer extends React.Component {
                 <Col md="6">
                   <div className=" copyright">
                     <p>
-                      {" "}
                       © {new Date().getFullYear()} Nakarda Richards Productions
                     </p>
                   </div>

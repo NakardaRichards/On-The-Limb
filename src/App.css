@@ -3,6 +3,7 @@ body {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    
 }
 
 h1,
@@ -26,3 +27,5 @@ h6 {
 html {
   scroll-behavior: smooth;
 }
+
+

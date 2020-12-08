@@ -4,7 +4,13 @@
     <meta charset="utf-8" />
     <link rel="icon" href="https://image.freepik.com/free-vector/metal-realistic-barbell-white-background_149267-976.jpg" />
      <meta name="viewport" content="width=device-width, initial-scale=1" />
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+   <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"></script> -->
+</head>
     <meta name="theme-color" content="#000000" />
+  
     <meta
       name="description"
       content="Nakarda's Web Final Project"
@@ -29,8 +35,25 @@
     <title>On The Limb</title>
   </head>
   <body>
+       
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+     <div id="root"></div>
+     <div class="loader-wrapper">
+      
+      <span class="loader"><span class="loader-inner"></span></span>
+    </div>
+ <script>
+   
+    
+      
+            $(window).on("load",function () {
+        setTimeout(function(){
+            $('.loader-wrapper').fadeOut('slow', function () {
+            });
+        },2200); // set the time here
+    });  
+    </script>
+     
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
