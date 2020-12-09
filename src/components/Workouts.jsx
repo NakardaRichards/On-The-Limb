@@ -9,7 +9,7 @@ const Workouts = () => {
           <h2 style={{ textAlign: "center" }}>Our Exercises</h2>
         </div>
         <div className="imgContainer">
-          <img src="https://image.freepik.com/free-vector/tiny-people-doing-exercise-without-gym-flat-illustration_74855-11101.jpg" />
+          <img src="https://image.freepik.com/free-vector/tiny-people-doing-exercise-without-gym-flat-illustration_74855-11101.jpg" alt="freepik.com"/>
         </div>
         <div className="Workouttext">
           <p>
@@ -42,7 +42,7 @@ const Workouts = () => {
               src="https://image.freepik.com/free-photo/deadlift-exercise-man-during-his-workout-gym_144962-10255.jpg"
               alt="Deadlift"
             />
-            <p>Deadlift</p>
+            <p>Deadlifts</p>
           </div>
 
           <div className="zoom">
@@ -62,7 +62,7 @@ const Workouts = () => {
           <div className="zoom">
             <img
               src="https://image.freepik.com/free-photo/close-up-view-gym-seated-leg-curl_8595-8721.jpg"
-              alt="Squats"
+              alt="Leg curls"
             />
             <p>Leg Curls</p>
           </div>

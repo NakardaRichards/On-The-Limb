@@ -11,7 +11,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <div className="Contactcontainer">
-        {/* <h2>Contact Us</h2> */}
+      
 
         <div className="Contactdetails">
           <h3 style={{ fontSize: "40px" }}>Telephone: </h3>
@@ -28,7 +28,7 @@ const Contact = () => {
           <div class="wrapper">
             <div class="contact">
               <h3 class="contact-us">Contact Form</h3>
-              <div class="alert">Your message has been sent!</div>
+
               <form id="contactForm">
                 <p class="name-field">
                   <label>

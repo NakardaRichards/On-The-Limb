@@ -11,7 +11,7 @@ class Footer extends React.Component {
             <Container>
               <Row className=" row-grid align-items-center mb-5">
                 <Col lg="6">
-                  <h3 className=" text-primary font-weight-light mb-2">
+                  <h3 className=" text-primary font-weight-light mb-3">
                     Thanks for stopping by !
                   </h3>
                   <h4 className=" mb-0 font-weight-light">

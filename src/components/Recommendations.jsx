@@ -10,7 +10,7 @@ const Recommendations = () => {
         </div>
         
         <div className="imgContainer3">
-          <img src="https://image.freepik.com/free-vector/man-moving-clock-arrows-managing-time_74855-10894.jpg" />
+          <img src="https://image.freepik.com/free-vector/man-moving-clock-arrows-managing-time_74855-10894.jpg" alt="freepik.com"/>
         </div>
         <div className="Recommendedtext">
           <p>
